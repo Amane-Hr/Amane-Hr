@@ -1,6 +1,13 @@
-## Hi there 👋
+## Respositories ‧₊˚🖇️✩ ₊˚
+- 𝟢𝟧𝟢𝟥𝟤𝟧 𝗁𝖾𝗅𝗅𝗈-𝗐𝗈𝗋𝗅𝖽
+- 𝟢𝟪𝟢𝟥𝟤𝟧 𝗌𝗄𝗂𝗅𝗅𝗌-𝗂𝗇𝗍𝗋𝗈𝖽𝗎𝖼𝗍𝗂𝗈𝗇-𝗍𝗈-𝗀𝗂𝗍𝗁𝗎𝖻
+- 𝟢𝟪𝟢𝟥𝟤𝟧 𝗌𝗄𝗂𝗅𝗅𝗌-𝖼𝗈𝗆𝗆𝗎𝗇𝗂𝖼𝖺𝗍𝖾-𝗎𝗌𝗂𝗇𝗀-𝗆𝖺𝗋𝗄𝖽𝗈𝗐𝗇
+- 𝟢𝟪𝟢𝟥𝟤𝟧 𝗌𝗄𝗂𝗅𝗅𝗌-𝗀𝗂𝗍𝗁𝗎𝖻-𝗉𝖺𝗀𝖾
+- 𝟣𝟢𝟢𝟥𝟤𝟧 𝖳𝗂𝗆𝖾𝗅𝗂𝗇𝖾
+- 𝟣𝟢𝟢𝟥𝟤𝟧 𝖠𝗆𝖺𝗇𝖾-𝖧𝗋
 
 <!--
+## Hi there 👋
 **Amane-Hr/Amane-Hr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
